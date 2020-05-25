@@ -103,3 +103,4 @@
 * [Smoothlog](https://smoothlog.com/)
 * [shiveenp.com](https://shiveenp.com)
 * [IcePlugins](https://iceplugins.xyz)
+* [Teddy Aryono's Blog](https://blog.teddyaryono.id/)
